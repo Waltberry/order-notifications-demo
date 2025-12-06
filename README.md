@@ -68,7 +68,7 @@ order-notifications-demo/
 │   ├── package.json
 │   ├── tsconfig*.json
 │   └── vite.config.ts
-├── order_notification.png   # UI screenshot used in this README
+├── doc/order_notification.png   # UI screenshot used in this README
 └── README.md                # (this file)
 ```
 
