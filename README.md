@@ -7,7 +7,7 @@ Minimal full-stack example of **real-time order status updates** using:
 
 Whenever an order is created or its status changes, the backend broadcasts an event over a WebSocket channel and the UI updates instantly without a manual refresh.
 
-![Order Notifications UI](doc\order_notification.png)
+![Order Notifications UI](doc/order_notification.png)
 
 ---
 
